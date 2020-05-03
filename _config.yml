@@ -14,9 +14,9 @@ title                    : "Ο Προγραμματισμός της Διάδρ�
 title_separator          : "-"
 name                     : "mibook"
 description              : "Making Interactivity Greek Book."
-url                      : "https://www.mibook.org"
+url                      : "https://p2014xygk-gr.netlify.app"
 baseurl                  : ""
-repository               : "mibook/gr"
+repository               : "p2014xygk/gr"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -65,14 +65,14 @@ author:
   location         :
   email            :
   uri              :
-  home             : "http://mibook.org/gr"
+  home             : "https://p2014xygk-gr.netlify.app"
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
   facebook         :
   foursquare       :
-  github           : "mibook"
+  github           : "p2014xygk"
   gitlab           :
   google_plus      :
   keybase          :
