@@ -12,12 +12,13 @@ tags:
   - subreddits
   - comments
 gallery:
-    image_url: /images/reddit.jpg
+  - image_url: /images/reddit.jpg
     caption: ""
   - image_url: /images/reddit-logo.jpg
     caption: "Οι ιδρυτες του reddit δημιουργησαν το logo κατα τη διάρκεια της βαρεμάρας τους σε ένα μάθημα marketing"
   - image_url: /images/reddit-screen.jpg
     caption: "Η αρχική σελίδα απο το 2005 και μέχρι το 2018. Είναι ακόμα διαθέσιμο στη διευθυνση old.reddit.com"
+    
 ---
 
 {% include_relative cs-reddit.md %}
