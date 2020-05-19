@@ -8,7 +8,7 @@ categories:
 tags:
   - HTML
   - CSS
-  - parallax
+  - JQUERY
   
 ---
 
