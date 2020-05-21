@@ -43,7 +43,7 @@ naver_site_verification  :
 
 # Social Sharing
 twitter:
-  username               :
+  username               : "ioannaxygk"
 facebook:
   username               :
   app_id                 :
@@ -67,7 +67,7 @@ author:
   uri              :
   home             : "https://p2014xygk-gr.netlify.app"
   bitbucket        :
-  codepen          :
+  codepen          : "p2014xygk"
   dribbble         :
   flickr           :
   facebook         :
@@ -84,7 +84,7 @@ author:
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
   steam            : # "steamId" (the last part of your profile url, e.g. https://steamcommunity.com/id/steamId/)
   tumblr           :
-  twitter          :
+  twitter          : "ioannaxygk"
   vine             :
   weibo            :
   xing             :
@@ -260,6 +260,7 @@ defaults:
     values:
       layout: gallery-figure
       header: no
+      share: true
       show_meta: false
   - scope:
       path: ""
@@ -267,6 +268,7 @@ defaults:
     values:
       layout: single
       header: no
+      share: true
       show_meta: false
   - scope:
       path: ""
@@ -274,11 +276,18 @@ defaults:
     values:
       layout: single
       header: no
+      share: true
       show_meta: false
   - scope:
       path: ""
       type: biography
     values:
       layout: single
+      share: true
       header: no
       show_meta: false
+  - scope:
+      path: ""
+      type: remix
+    values:
+      share: true
