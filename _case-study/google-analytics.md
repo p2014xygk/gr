@@ -2,7 +2,7 @@
 author: p2014xygk
 title: "Google Analytics"
 image_url: /images/google-analytics.jpg
-caption: "O εόλος του google analytics στον προγραμματισμό της διάδρασης είναι πολύ σημαντικός καθώς μπορούν να εξαχθούν σημαντικά συμπεράσματα για το τι δουλεύει σωστά και τι όχι."
+caption: "O ρόλος του google analytics στον προγραμματισμό της διάδρασης είναι πολύ σημαντικός καθώς μπορούν να εξαχθούν σημαντικά συμπεράσματα για το τι δουλεύει σωστά και τι όχι."
 categories:
   - case-study
 tags:
